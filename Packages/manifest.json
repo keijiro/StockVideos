@@ -5,7 +5,8 @@
     "jp.keijiro.danish-statues": "1.0.0",
     "jp.keijiro.metamesh": "1.0.1",
     "jp.keijiro.metatex": "1.0.3",
-    "jp.keijiro.shadergraphassets": "2.5.0"
+    "jp.keijiro.shadergraphassets": "2.5.0",
+    "jp.keijiro.vfxgraphassets": "1.0.10"
   },
   "scopedRegistries": [
     {
