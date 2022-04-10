@@ -12,7 +12,7 @@ ScriptedImporter:
   _generator: 6
   _colormap: 0
   _color: {r: 0, g: 0, b: 0, a: 1}
-  _color2: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
+  _color2: {r: 0.36862746, g: 0.34577256, b: 0.27720785, a: 1}
   _gradient:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 1}
