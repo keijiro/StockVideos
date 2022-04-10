@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a83b992472cf64dc38315c343e740d03
+guid: bb49a059e29444fe68f862be70c28872
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -8,11 +8,11 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 1431cff934e074ba08d350fd0fc5be0d, type: 3}
-  _dimensions: {x: 2048, y: 2048}
-  _generator: 0
+  _dimensions: {x: 1024, y: 1024}
+  _generator: 6
   _colormap: 0
-  _color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
-  _color2: {r: 1, g: 1, b: 1, a: 1}
+  _color: {r: 0, g: 0, b: 0, a: 1}
+  _color2: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
   _gradient:
     serializedVersion: 2
     key0: {r: 1, g: 1, b: 1, a: 1}
@@ -42,12 +42,12 @@ ScriptedImporter:
     mode: 0
     numColorKeys: 2
     numAlphaKeys: 2
-  _scale: {x: 1, y: 1}
+  _scale: {x: 5, y: 5}
   _codepoint: 1f600
-  _shader: {fileID: -6465566751694194690, guid: 5185166d674344323a0ae9704d2ed754, type: 3}
+  _shader: {instanceID: 0}
   _material: {instanceID: 0}
   _wrapMode: 0
   _filterMode: 2
   _anisoLevel: 4
-  _compression: 0
-  _linear: 1
+  _compression: 1
+  _linear: 0
