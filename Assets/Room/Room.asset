@@ -328,9 +328,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: DefaultSettingsVolumeProfile
+  m_Name: Room
   m_EditorClassIdentifier: 
-  components: []
+  components:
+  - {fileID: -4495401215307213943}
+  - {fileID: 2471800289344060603}
+  - {fileID: -2446212862433956047}
+  - {fileID: 968230024003715881}
+  - {fileID: 2083466304694709376}
+  - {fileID: -2418978383839681221}
+  - {fileID: -6640682261900344102}
+  - {fileID: 2440326803523885424}
+  - {fileID: -1985000720720272248}
+  - {fileID: -8562451935084250004}
+  - {fileID: -7920352062089487920}
 --- !u!114 &968230024003715881
 MonoBehaviour:
   m_ObjectHideFlags: 3
