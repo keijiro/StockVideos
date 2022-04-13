@@ -12,4 +12,6 @@ Desktop.ini
 /UserSettings
 
 *.blend
-*.mov
+
+Recordings/*.mov
+Recordings/*.png
