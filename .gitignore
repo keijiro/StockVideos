@@ -8,10 +8,6 @@ Desktop.ini
 
 /Library
 /Logs
+/Recordings
 /Temp
 /UserSettings
-
-*.blend
-
-Recordings/*.mov
-Recordings/*.png
