@@ -55,7 +55,7 @@ MonoBehaviour:
       m_Leaf: Recordings
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
-    m_FileName: Temp
+    m_FileName: Room1
   outputFormat: 0
   videoBitRateMode: 2
   captureAlpha: 0
