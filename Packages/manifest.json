@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "com.unity.recorder": "3.0.3",
+    "com.unity.recorder": "4.0.0-pre.4",
     "com.unity.render-pipelines.high-definition": "12.1.6",
     "jp.keijiro.danish-statues": "1.0.0",
-    "jp.keijiro.metamesh": "1.0.1",
+    "jp.keijiro.metamesh": "1.0.2",
     "jp.keijiro.metatex": "1.0.3",
     "jp.keijiro.shadergraphassets": "2.5.0",
     "jp.keijiro.vfxgraphassets": "1.0.10"

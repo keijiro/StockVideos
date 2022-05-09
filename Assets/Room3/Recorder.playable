@@ -105,7 +105,7 @@ MonoBehaviour:
   m_Name: RecorderClip
   m_EditorClassIdentifier: 
   enabled: 1
-  take: 3
+  take: 4
   captureEveryNthFrame: 1
   fileNameGenerator:
     m_Path:
@@ -114,17 +114,11 @@ MonoBehaviour:
       m_ForceAssetFolder: 0
       m_AbsolutePath: 
     m_FileName: Room3
-  outputFormat: 0
-  videoBitRateMode: 2
+  m_Version: 1
+  encoderSettings:
+    rid: 2373524756714749953
   captureAlpha: 0
-  containerFormatSelected: 2
-  encoderSelected: 1
-  encoderPresetSelected: 3
-  encoderPresetSelectedName: Apple ProRes 422 (apcn)
-  encoderPresetSelectedOptions: 
-  encoderPresetSelectedSuffixes: .mov
-  encoderColorDefinitionSelected: 0
-  encoderCustomOptions: 
+  captureAudio: 0
   m_ImageInputSelector:
     m_Selected: gameViewInputSettings
     gameViewInputSettings:
@@ -184,9 +178,23 @@ MonoBehaviour:
     preserveAudio: 0
   _accumulationSettings:
     rid: 5224406003030687744
+  outputFormat: 0
+  encodingQuality: 2
+  containerFormatSelected: 2
+  encoderSelected: 1
+  encoderPresetSelected: 3
+  encoderPresetSelectedName: Apple ProRes 422 (apcn)
+  encoderPresetSelectedOptions: 
+  encoderPresetSelectedSuffixes: .mov
+  encoderColorDefinitionSelected: 0
+  encoderCustomOptions: 
   references:
     version: 2
     RefIds:
+    - rid: 2373524756714749953
+      type: {class: ProResEncoderSettings, ns: UnityEditor.Recorder.Encoder, asm: Unity.Recorder.Editor}
+      data:
+        outputFormat: 3
     - rid: 5224406003030687744
       type: {class: AccumulationSettings, ns: , asm: Unity.Recorder.Editor}
       data:
@@ -220,6 +228,7 @@ MonoBehaviour:
           m_RotationOrder: 4
         shutterFullyOpen: 0.25
         shutterBeginsClosing: 0.75
+        useSubPixelJitter: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
